@@ -5,7 +5,7 @@ public class Player_Collision : MonoBehaviour{
    
     void OnCollsisionEnter ()
     {
-        Debug.Log("We hit something.");
+        Debug.Log("We hit something please turn around.");
     }
 
 
